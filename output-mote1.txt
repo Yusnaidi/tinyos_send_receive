@@ -1,0 +1,25 @@
+Thread[Thread-1,5,main]Node:1 SEND data: feed
+Node 1 booted.
+Data will be sent every 1 sec ... 
+Node:1 SEND data: feed
+Send done!
+Node:1 SEND data: feed
+Send done!
+Node:1 SEND data: feed
+Send done!
+Node:1 SEND data: feed
+Send done!
+Node:1 SEND data: feed
+Send done!
+Node:1 SEND data: feed
+Send done!
+Node:1 SEND data: feed
+Send done!
+Node:1 SEND data: feed
+Send done!
+Node:1 SEND data: feed
+Send done!
+Node:1 SEND data: feed
+Send done!
+Node:1 SEND data: feed
+Send done!

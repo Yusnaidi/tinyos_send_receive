@@ -1,0 +1,30 @@
+Thread[Thread-1,5,main]rom node: 1
+Node 2 booted.
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
+Node:2 RECEIVED data: feed from node: 1
