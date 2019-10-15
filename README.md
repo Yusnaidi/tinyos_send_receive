@@ -8,7 +8,7 @@ nesC TinyOS program to demonstrate basic wireless communication using TelosB sen
   
  The program can be run using the 'printf' java tool provided by the tinyos. 
   
- To test the program, compile and run one mote as:
+ To test the program, compile and run one mote as:<br>
  $make telosb install,1 bsl,/dev/ttyUSB0<br>
  and watch the output as:<br>
  $java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB0:telosb | tee output.txt<br> 
@@ -20,24 +20,24 @@ nesC TinyOS program to demonstrate basic wireless communication using TelosB sen
  
  Sample output:
  
- On node 1:
- Node 1 booted.
- Data will be sent every 1 sec ...
- Node:1 SEND data: feed
- Send done!
- Node:1 SEND data: feed
- Send done!
- Node:1 SEND data: feed
- Send done!
- Node:1 SEND data: feed
- Send done!
+ On node 1:<br>
+ Node 1 booted.<br>
+ Data will be sent every 1 sec ...<br>
+ Node:1 SEND data: feed<br>
+ Send done!<br>
+ Node:1 SEND data: feed<br>
+ Send done!<br>
+ Node:1 SEND data: feed<br>
+ Send done!<br>
+ Node:1 SEND data: feed<br>
+ Send done!<br>
  ...
  
- On node 2:
- Node 2 booted.
- Node:2 RECEIVED data: feed from node:1
- Node:2 RECEIVED data: feed from node:1
- Node:2 RECEIVED data: feed from node:1
- Node:2 RECEIVED data: feed from node:1
- Node:2 RECEIVED data: feed from node:1
+ On node 2:<br>
+ Node 2 booted.<br>
+ Node:2 RECEIVED data: feed from node:1<br>
+ Node:2 RECEIVED data: feed from node:1<br>
+ Node:2 RECEIVED data: feed from node:1<br>
+ Node:2 RECEIVED data: feed from node:1<br>
+ Node:2 RECEIVED data: feed from node:1<br>
  ...
