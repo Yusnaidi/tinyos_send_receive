@@ -11,12 +11,12 @@ nesC TinyOS program to demonstrate basic wireless communication using TelosB sen
  To test the program, compile and run one mote as:<br>
  $make telosb install,1 bsl,/dev/ttyUSB0<br>
  and watch the output as:<br>
- $java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB0:telosb | tee output-node1.txt<br> 
+ $java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB0:telosb | tee output-mote1.txt<br> 
   
  Then, compile and run another mote (node 2) as:<br>
  $make telosb install,2 bsl,/dev/ttyUSB1<br>
  and watch the output as:<br>
- $java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telosb | tee output-node2.txt 
+ $java net.tinyos.tools.PrintfClient -comm serial@/dev/ttyUSB1:telosb | tee output-mote2.txt 
  
  Sample output:
  
